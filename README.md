@@ -2,7 +2,7 @@
 
 In this project, I successfully hosted a WordPress website on Amazon Web Services (AWS) using Amazon Lightsail, a cost-effective cloud service, and integrated it with Amazon Route 53 for domain management. This project demonstrates my ability to deploy web applications on AWS and showcases my expertise in utilizing AWS services.
 
-![Image](hosting wordpress website.png)
+![Image](image.png)
 
 ## Project Components
 
